@@ -1,7 +1,7 @@
 {
-  "name": "Allnodes",
-  "website": "https://www.allnodes.com",
-  "description": "Reliable non-custodial EigenLayer operator run by the industry leader - Allnodes",
-  "logo": "https://raw.githubusercontent.com/allnodes/eigenlayer/main/allnodes.png",
+  "name": "Allnodes ⚡️ all AVS",
+  "website": "https://www.allnodes.com/eth/staking",
+  "description": "Allnodes stands out as a premier infrastructure provider, celebrated for its stellar reputation and recognition as a household name in the Web3 space. With support for over 70 protocols and overseeing more than 42,000 nodes that handle over $5 billion in total TVL, Allnodes delivers secure and robust staking and restaking services tailored for both individual enthusiasts and large institutions. Committed to maximizing rewards and airdrops, Allnodes provides extensive support for the majority of AVSs, ensuring optimal benefits for our users.",
+  "logo": "https://raw.githubusercontent.com/layr-labs/eigendata/master/operators/Allnodes/logo.png",
   "twitter": "https://x.com/allnodes"
 }
